@@ -20,4 +20,5 @@ func TwoNumberSumArray_sol2(arr []int, target int) (result []int) {
 			left++
 		}
 	}
+	return
 }
